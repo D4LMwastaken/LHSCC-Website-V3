@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Largo High School Coding Club on LHSCC</title><link>https://D4LMwastaken.github.io/LHSCC-Website-V3/</link><description>Recent content in Largo High School Coding Club on LHSCC</description><generator>Hugo</generator><language>en</language><atom:link href="https://D4LMwastaken.github.io/LHSCC-Website-V3/index.xml" rel="self" type="application/rss+xml"/><item><title>Welcome to the new website!</title><link>https://D4LMwastaken.github.io/LHSCC-Website-V3/blog/2025/10/07/welcome-to-the-new-website/</link><pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate><guid>https://D4LMwastaken.github.io/LHSCC-Website-V3/blog/2025/10/07/welcome-to-the-new-website/</guid><description>&lt;h2 id="welcome-to-the-new-lhscc-website"&gt;Welcome to the new LHSCC Website&lt;a class="td-heading-self-link" href="#welcome-to-the-new-lhscc-website" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;This is the third iteration of the website, I am happily to introduce this new version.&lt;/p&gt;
+&lt;figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 1930px"&gt;
+&lt;img class="card-img-top" src="https://D4LMwastaken.github.io/LHSCC-Website-V3/blog/2025/10/07/welcome-to-the-new-website/welcome_hu_128fb1bf03cb6580.png" width="1920" height="1200"&gt;
+&lt;figcaption class="card-body px-0 pt-2 pb-0"&gt;
+&lt;p class="card-text"&gt;
+
+
+Home Page of the Website
+&lt;small class="text-body-secondary"&gt;&lt;br/&gt;Screenshot captured by D4LM&lt;/small&gt;
+&lt;/p&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;</description></item><item><title>About LHSCC</title><link>https://D4LMwastaken.github.io/LHSCC-Website-V3/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://D4LMwastaken.github.io/LHSCC-Website-V3/about/</guid><description>&lt;link rel="preload" as="image" href="https://D4LMwastaken.github.io/LHSCC-Website-V3/about/featured-background_hu_ae2d4e82e6fae1bc.jpg" media="(max-width: 1200px)"&gt;
+&lt;link rel="preload" as="image" href="https://D4LMwastaken.github.io/LHSCC-Website-V3/about/featured-background_hu_5b81964b8276f425.jpg" media="(min-width: 1200px)"&gt;
+&lt;style&gt;
+#td-cover-block-0 {
+ background-image: url(/LHSCC-Website-V3/about/featured-background_hu_ae2d4e82e6fae1bc.jpg);
+}
+@media only screen and (min-width: 1200px) {
+ #td-cover-block-0 {
+ background-image: url(/LHSCC-Website-V3/about/featured-background_hu_5b81964b8276f425.jpg);
+ }
+}
+&lt;/style&gt;
+&lt;section id="td-cover-block-0" class="row td-cover-block td-cover-block--height-auto td-overlay td-overlay--dark -bg-dark"&gt;
+ &lt;div class="col-12"&gt;
+ &lt;div class="container td-overlay__inner"&gt;
+ &lt;div class="text-center"&gt;
+ &lt;h1 class="display-1 mt-0 mt-md-5 pb-4"&gt;About LHSCC&lt;/h1&gt;
+ 
+ &lt;div class="pt-3 lead"&gt;
+ 
+ &lt;p class="mt-5"&gt;What is LHSCC?&lt;/p&gt;
+
+ 
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ 
+&lt;/section&gt;
+
+&lt;div&gt;&lt;a id="td-block-1" class="td-offset-anchor"&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;section class="row td-box td-box--1 position-relative td-box--height-auto"&gt;
+&lt;div class="col-12"&gt;
+&lt;div class="container text-center td-arrow-down"&gt;
+&lt;div class="h4 mb-0"&gt;
+&lt;p&gt;LHSCC, or the Largo High School Coding Club. Is an official HackClub based at Largo High School in Largo, Florida. We
+are a dedicated group of coders and programmers who wish to spread their love of coding, collaboration and community
+love to the rest of the world!&lt;/p&gt;</description></item><item><title>GitHub Student Developer Pack</title><link>https://D4LMwastaken.github.io/LHSCC-Website-V3/docs/docsresources/githubstudentdevpack/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://D4LMwastaken.github.io/LHSCC-Website-V3/docs/docsresources/githubstudentdevpack/</guid><description>&lt;div class="pageinfo pageinfo-primary"&gt;
+&lt;p&gt;Documentation on how to get GitHub Student Developer Pack.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;h1 id="github-student-developer-pack"&gt;GitHub Student Developer Pack&lt;a class="td-heading-self-link" href="#github-student-developer-pack" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;GitHub Student Developer Pack is a free collection of tools provided by GitHub that is designed to help you progress
+your coding journey!&lt;/p&gt;
+&lt;h2 id="how-do-i-get-it"&gt;How do I get it?&lt;a class="td-heading-self-link" href="#how-do-i-get-it" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Fill out an application of the GitHub Student website.&lt;/p&gt;
+&lt;h2 id="how-is-it-useful-to-me"&gt;How is it useful to me?&lt;a class="td-heading-self-link" href="#how-is-it-useful-to-me" aria-label="Heading self-link"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Grants you many cool resources!&lt;/p&gt;</description></item><item><title>Search Results</title><link>https://D4LMwastaken.github.io/LHSCC-Website-V3/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://D4LMwastaken.github.io/LHSCC-Website-V3/search/</guid><description/></item></channel></rss>
